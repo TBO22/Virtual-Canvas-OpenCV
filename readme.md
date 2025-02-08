@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <img src="drawing.jpg" alt="Virtual Canvas Preview" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
+    <img src="drawing.png" alt="Virtual Canvas Preview" style="display: block; margin: 0 auto; max-width: 100%; height: auto;">
     <h1>Virtual Canvas</h1>
     <p>
         Welcome to the Virtual Canvas project! This project enables you to create a virtual drawing board controlled entirely by hand gestures using your webcam.
